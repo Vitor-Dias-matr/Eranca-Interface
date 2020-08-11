@@ -1,0 +1,13 @@
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\bin\Debug\netcoreapp3.1\ErancaEhInterface.exe
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\bin\Debug\netcoreapp3.1\ErancaEhInterface.deps.json
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\bin\Debug\netcoreapp3.1\ErancaEhInterface.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\bin\Debug\netcoreapp3.1\ErancaEhInterface.runtimeconfig.dev.json
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\bin\Debug\netcoreapp3.1\ErancaEhInterface.dll
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\bin\Debug\netcoreapp3.1\ErancaEhInterface.pdb
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\obj\Debug\netcoreapp3.1\ErancaEhInterface.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\obj\Debug\netcoreapp3.1\ErancaEhInterface.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\obj\Debug\netcoreapp3.1\ErancaEhInterface.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\obj\Debug\netcoreapp3.1\ErancaEhInterface.dll
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\obj\Debug\netcoreapp3.1\ErancaEhInterface.pdb
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\obj\Debug\netcoreapp3.1\ErancaEhInterface.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Documentos\ErancaEhInterface\ErancaEhInterface\obj\Debug\netcoreapp3.1\ErancaEhInterface.csprojAssemblyReference.cache
